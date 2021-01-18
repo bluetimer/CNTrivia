@@ -10,6 +10,8 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 
 ### Goal 1: Render a question from sample_data.json on the screen.
 
+push text
+
 - [x] In App.jsx in the App component, add a variable to set the current question number to 0.
 - [x] In App.jsx, create a Question component.
 - [x] Add props to `<Question />` with the text "Question goes here".
