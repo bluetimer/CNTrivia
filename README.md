@@ -1,0 +1,2 @@
+# CNTrivia
+Created with CodeSandbox
